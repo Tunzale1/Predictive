@@ -230,7 +230,7 @@ Possible future improvements include:
 .
 ├── README.md
 ├── ai4i2020.csv
-└── predictive_maintenance.ipynb
+└── analysis.ipynb
 ```
 
 ---
@@ -240,8 +240,8 @@ Possible future improvements include:
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
-cd <YOUR-REPOSITORY-NAME>
+git clone <https://github.com/Tunzale1/Predictive.git>
+cd <Predictive>
 ```
 
 ### 2. Install dependencies
@@ -261,7 +261,7 @@ jupyter notebook
 Open:
 
 ```text
-predictive_maintenance.ipynb
+analysis.ipynb
 ```
 
 Make sure `ai4i2020.csv` is located in the same directory as the notebook.
